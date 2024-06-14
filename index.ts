@@ -1,4 +1,7 @@
 /**
+ * COMING FROM GITHUB!
+ * 
+ * 
  * This function detects which runtime you are executing in.
  * @returns The runtime you are in, and null if the runtime could not be detected.
  */
